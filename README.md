@@ -1,16 +1,19 @@
-# Student Mangement System And SGPA Management System
-A python based student management system using streamlit.
+# Student Management and CGPA Management System
+A python Based Student management system bulit using streamlit and Sqlite.
 
 ## Features
 -Add Students
 -View Students
--Delete Students
--SGPA Calacluation
+-DeleteStudents
+-Add Subjects
+-Calculate SGPA
 -SGPA Visualization
+-SQL database
 
 ## Technologies Used
 -Python
--Streamlit
+-SQL lite
 -Git
 -GitHub
--NumPy
+-Streamlit
+-Pandas
